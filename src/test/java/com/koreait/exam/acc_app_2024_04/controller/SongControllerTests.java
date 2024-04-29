@@ -1,4 +1,4 @@
-package com.koreait.exam.acc_app_2024_04.controller;
+package com.koreait.exam.acc_app_2024_04.cotroller;
 
 import com.koreait.exam.acc_app_2024_04.app.song.controller.SongController;
 import com.koreait.exam.acc_app_2024_04.app.song.entity.Song;
